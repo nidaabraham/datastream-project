@@ -1,0 +1,5 @@
+AmazonKinesisFullAccess
+AmazonSNSFullAccess
+AWSLambda_FullAccess
+AWSLambdaKinesisExecutionRole
+CloudWatchEventsFullAccess

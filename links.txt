@@ -1,0 +1,3 @@
+- Create AWS account: https://aws.amazon.com/resources/create-account/
+- Download Docker: https://www.docker.com/products/docker-desktop/
+- Setup AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
